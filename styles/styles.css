@@ -210,7 +210,7 @@ body {
   line-height: 26px;
   border-radius: 3px;
   padding: 6px 22px;
-  font-family: 'Roboto';
+  font-family: inherit 'Roboto';
 }
 .filter-button:focus,
 .filter-button:hover {
